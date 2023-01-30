@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Java course/1qa/3.1">
+        <classes>
+            <class name="Test1"/>
+
+        </classes>
+    </test>
+    <test name="test2">
+        <classes>
+            <class name="Test2">
+            </class>
+        </classes>
+    </test>
+    <test name="test3">
+        <classes>
+            <class name="Test3">
+            </class>
+        </classes>
+    </test>
+    <test name="test4">
+        <classes>
+            <class name="Test4">
+
+            </class>
+        </classes>
+    </test>
+
+
+</suite>

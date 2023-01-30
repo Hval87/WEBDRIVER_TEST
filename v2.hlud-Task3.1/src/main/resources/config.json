@@ -1,0 +1,10 @@
+{
+  "browser": "chrome",
+
+  "startPage": "https://demoqa.com/",
+  "implWaitTime": "10",
+
+  "driverArguments": [
+    "-incognito"
+  ]
+}
